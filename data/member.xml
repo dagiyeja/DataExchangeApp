@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<members>
+	<member>
+		<name>김태희</name>
+		<age>33</age>
+		<phone>010-3847-2289</phone>
+		<gender>여</gender>
+	</member>
+	<member>
+		<name>송혜교</name>
+		<age>32</age>
+		<phone>010-6673-3956</phone>
+		<gender>여</gender>
+	</member>	
+	<member>
+		<name>전지현</name>
+		<age>34</age>
+		<phone>010-2543-7949</phone>
+		<gender>여</gender>
+	</member>
+</members>

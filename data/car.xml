@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cars>
+	<car>
+		<brand>audi</brand>
+		<name>미니 쿠페</name>
+		<price>7000</price>
+		<color>white</color>
+	</car>
+	<car>
+		<brand>kia</brand>
+		<name>carnival</name>
+		<price>5000</price>
+		<color>black</color>
+	</car>	
+	<car>
+		<brand>벤츠</brand>
+		<name>벤츠 2400</name>
+		<price>12000</price>
+		<color>silver</color>
+	</car>
+</cars>
